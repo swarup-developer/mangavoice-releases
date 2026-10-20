@@ -5,7 +5,7 @@ impaired readers.** MangaVoice works with the NVDA screen reader, and it can
 narrate manga pages aloud like an audiobook, using an AI model that runs on
 your own computer.
 
-## [Download the latest version](https://github.com/swarup-developer/mangavoice-releases/releases/latest)
+## [Download the latest version](https://github.com/mohammedtahadev/mangavoice-releases/releases/latest)
 
 On the download page, choose one of the two files:
 
@@ -54,4 +54,4 @@ Press **F1** in MangaVoice for the full guide and every keyboard shortcut.
 ## Feedback
 
 Report problems or ideas in
-[Issues](https://github.com/swarup-developer/mangavoice-releases/issues).
+[Issues](https://github.com/mohammedtahadev/mangavoice-releases/issues).
